@@ -18,13 +18,13 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 - Desigend Probe Feed Patch, Bow Tie, Slot Fed Patch Antenna using HFSS
 
 ### Intelligent Image Signal Processing Lab
--Studied Basic Deep Learning
--Analyzed the generalization performance of the model using image datasets of various resolutions
+- Studied Basic Deep Learning
+- Analyzed the generalization performance of the model using image datasets of various resolutions
 
 ### 3D Optical Image System Lab
--Applied photon counting to integral imaging of low-light images
--Enhaned N-observation via Fourier-domain processing and advanced filtering
--Performed dehazing on foggy image to enable object recognition
+- Applied photon counting to integral imaging of low-light images
+- Enhaned N-observation via Fourier-domain processing and advanced filtering
+- Performed dehazing on foggy image to enable object recognition
 
 ### Wireless Internet & Network Engineering Research Laboratory
 
