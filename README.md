@@ -13,4 +13,4 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 - English
 - Japanese
 
-## Reaserch experience
+## 👩‍🔬 Reaserch experience
