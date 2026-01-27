@@ -9,9 +9,9 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 
 ### Speaking
-- Korean (Native)
-- English
-- Japanese
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English
+- 🇯🇵 Japanese
 
 ## 👩‍🔬 Reaserch experience
 ### Antenna System Lab
