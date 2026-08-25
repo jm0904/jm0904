@@ -1,7 +1,7 @@
-## 👾 Introduction
+## Introduction
 Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou University, and **my research interests are in satellite and mobile communications.**
 
-## 💻 Languages
+## Languages
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
@@ -13,7 +13,7 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 - English
 - Japanese
 
-## 👩‍🔬 Reaserch experience
+## Reaserch experience
 ### Antenna System Lab
 - Desigend Probe Feed Patch, Bow Tie, Slot Fed Patch Antenna using HFSS
 
@@ -28,7 +28,7 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 
 ### Wireless Internet & Network Engineering Research Laboratory
 
-## 📚 Publications
+## Publications
 
-## 📞 Contect
+## Contect
 - Email: jimin447723@gmail.com
