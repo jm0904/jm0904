@@ -27,8 +27,11 @@ Hi, I’m Jimin Lee. I am currently pursuing a master’s course at Ajou Univers
 - Performed dehazing on foggy image to enable object recognition
 
 ### Wireless Internet & Network Engineering Research Laboratory
+- Research on an Open-RAN Based Disaggregated Architecture
 
 ## Publications
-
+- "저궤도 위성 분산형 gNB 구조에서 오프셋 기반 지연 보상 핸드오버 기법, " in Proc. 한국통신학회 하계종합학술발표회
+- "Resource-Efficient Group Handover for Disaggregated gNB-Based Non-Terrestrial Networks," in Proc. APWCS 2026
+  
 ## Contect
 - Email: jimin447723@gmail.com
